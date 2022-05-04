@@ -16,3 +16,6 @@ A GUI was designed using Matlab’s App Designer toolbox. Purpose of the GUI is 
 change PID values and see the effects in real time. Also neat presentation of the results can
 be shown to the user in the form of figure and numeric values.
 
+<img src="./img/ex-1-vis.png" width="600">
+
+
