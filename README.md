@@ -1,6 +1,6 @@
 # Automated Watering Control System and GUI
 
-A humidity sensor measures the moisture content of soil which the plant lives in.
+A humidity sensor measures the moisture content of soil which a plant lives in.
 According to the measurement, if the soil lacks moisture, water is
 transferred from a source into the pot using a dc motor to open a lid.
 Until the ideal soil moisture measurement is read from the
