@@ -1,4 +1,4 @@
-# Automated Watering Control System and GUI
+# Automated Watering Control System - GUI
 
 A humidity sensor measures the moisture content of soil which a plant lives in.
 According to the measurement, if the soil lacks moisture, water is
