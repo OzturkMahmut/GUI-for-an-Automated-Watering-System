@@ -14,7 +14,7 @@ Control is achieved with aid of an Arduino and controller model is designed in S
 Arduino can be directly connected to the Simulink model and loaded with auto-generated program
 via 'Simulink Support Package for Arduino Hardware' add-on.
 
-A GUI was designed using Matlab’s App Designer toolbox. Purpose of the GUI is to
+GUI was designed using Matlab’s App Designer toolbox. Purpose of the GUI is to
 change PID values and see the effects in real time. Also neat presentation of the results can
 be shown to the user in the form of figure and numeric values.
 
